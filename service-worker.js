@@ -5,7 +5,7 @@ self.addEventListener('install', (event) => {
           '/',
           '/index.html',
           '/styles.css',
-          '/script.js',
+          '/tracking_page.html',
           '/icon-192x192.png',
           '/icon-512x512.png'
         ]);
